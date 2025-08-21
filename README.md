@@ -1,8 +1,8 @@
-🏦 Sistema de Gerenciamento de Conta Corrente
+# 🏦 Sistema de Gerenciamento de Conta Corrente
 
 Este projeto é um sistema de caixa eletrônico em Java, desenvolvido para praticar programação orientada a objetos e interação com o usuário no console.
 
-✨ Funcionalidades
+# ✨ Funcionalidades
 
 📌 Cadastro de conta corrente com dados do titular.
 
@@ -16,8 +16,9 @@ Este projeto é um sistema de caixa eletrônico em Java, desenvolvido para prati
 
 🔒 Validação de credenciais (nome, CPF e senha) para operações.
 
-🛠 Tecnologias Utilizadas
+# 🛠 Tecnologias Utilizadas
 
 Java 21
 
 Visual Studio Code (ou qualquer IDE Java)
+
