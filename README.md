@@ -20,5 +20,6 @@ Este projeto é um sistema de caixa eletrônico em Java, desenvolvido para prati
 
 Java 21
 
-Visual Studio Code (ou qualquer IDE Java)
+Visual Studio Code
+
 
